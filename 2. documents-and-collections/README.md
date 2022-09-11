@@ -18,7 +18,7 @@ db.createCollection(name, options)
 <br>
 
 ```
-db.drop()
+db.[collectionName].drop()
 ```
 
 
